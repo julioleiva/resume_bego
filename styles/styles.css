@@ -184,6 +184,7 @@ section {
   object-fit: cover;
   transition: all 0.4s ease-in-out;
   filter: grayscale(100%);
+  border-radius: 1.5rem;
 }
 .header-content .left-header .image img:hover {
   filter: grayscale(0);
@@ -400,7 +401,7 @@ section {
   color: var(--color-grey-2);
   font-size: 1.1rem;
   font-weight: bolder;
-  color:#27ae60;
+  color: #27ae60;
 }
 
 .port-text {
