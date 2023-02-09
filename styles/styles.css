@@ -572,6 +572,7 @@ details > p {
 }
 .contact-content-con .left-contact .contact-info .contact-item {
   display: block;
+  margin-bottom: 2rem;
 }
 .contact-content-con .left-contact .contact-info .contact-item p {
   margin: 0.3rem 0 !important;
