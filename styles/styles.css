@@ -586,6 +586,10 @@ details > p {
   display: flex;
   align-items: center;
   font-size: 1.3rem;
+  background-color: var(--color-secondary);
+  padding: 0.5rem;
+  margin-right: 0.2rem;
+  border-radius: 8px;
 }
 .contact-content-con .left-contact .contact-icon {
   display: flex;
