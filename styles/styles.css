@@ -426,6 +426,13 @@ details > p {
   color: #27ae60;
 }
 
+.read {
+  font-size: 1.1rem;
+  font-weight: bolder;
+  margin-left: 1rem;
+  color: #27ae60;
+}
+
 .port-text {
   padding: 2rem 0;
   text-align: center;
